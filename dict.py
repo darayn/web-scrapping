@@ -4,10 +4,10 @@ import wikipedia
 from bs4 import BeautifulSoup
 import requests
 
-bot = Bot("1441652305:AAEqb10dRmJThpzQL97xE4rEPVqixCBKQQk")
+bot = Bot("--Your Token--")
 
 print(bot.get_me())
-updater = Updater("1441652305:AAEqb10dRmJThpzQL97xE4rEPVqixCBKQQk", use_context=True)
+updater = Updater("--Your Token--", use_context=True)
 
 dispatcher: Dispatcher = updater.dispatcher
 keyword = ''
