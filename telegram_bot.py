@@ -4,11 +4,11 @@ import wikipedia
 import requests
 
 
-bot = Bot("1448922665:AAFqUc9_ueFibGNziTi9qtCcx92ob_BJKGI")
+bot = Bot("--Your Token--")
 
 print(bot.get_me())
 
-updater = Updater("1448922665:AAFqUc9_ueFibGNziTi9qtCcx92ob_BJKGI", use_context=True)
+updater = Updater("--Your Token--", use_context=True)
 
 dispatcher: Dispatcher = updater.dispatcher
 keyword = ''
