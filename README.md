@@ -1,2 +1,4 @@
 Welcome to Web Scraping 101 workshop.
-Workshop resources will be updated here soon.
+
+
+Kindly keep your microphone and video off during workshop. Keep pposting doubts in chat section. 
